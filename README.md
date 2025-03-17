@@ -1,2 +1,2 @@
-# db-bdcli-plugin
+# bdcli-db-plugin
 An official plugin to support database integrations
